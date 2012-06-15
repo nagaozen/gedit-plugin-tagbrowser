@@ -1,0 +1,9 @@
+[Gedit Plugin]
+Loader=python
+Module=tagbrowser
+IAge=2
+Name=Evolved Tag Browser
+Description=A tag (Evolved style) browser.
+Authors=Fabio Zendhi Nagao <nagaozen@hotmail.com>\nhttp://zend.lojcomm.com.br/
+Copyright=Copyright © 2012 Fabio Zendhi Nagao
+Website=http://github.com/nagaozen/gedit-plugin-tagbrowser/
